@@ -1,2 +1,2 @@
 # Analog-clock
-Mini web dev project to get better at html, css and js.
+Real-time analog clock I made using html, css and js to get better at web dev
